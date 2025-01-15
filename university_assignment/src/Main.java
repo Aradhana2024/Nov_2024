@@ -11,7 +11,7 @@ public class Main {
         University.setUniversityName("University of Toronto");
         System.out.println(University.getUniversityName());
 
-        Person[] person=new Person[5];
+        Person[] person=new Person[3];
 
         person[0]=new Student("Aradhana",25,101,"System Testing",8.2);
 
