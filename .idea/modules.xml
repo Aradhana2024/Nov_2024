@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Nov_2024.iml" filepath="$PROJECT_DIR$/Nov_2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/enapulation/enapulation.iml" filepath="$PROJECT_DIR$/enapulation/enapulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/presentation/get_set/get_set.iml" filepath="$PROJECT_DIR$/presentation/get_set/get_set.iml" />
       <module fileurl="file://$PROJECT_DIR$/poly/poly.iml" filepath="$PROJECT_DIR$/poly/poly.iml" />
       <module fileurl="file://$PROJECT_DIR$/ppt_jan11/ppt_jan11.iml" filepath="$PROJECT_DIR$/ppt_jan11/ppt_jan11.iml" />
       <module fileurl="file://$PROJECT_DIR$/presentation/presentation.iml" filepath="$PROJECT_DIR$/presentation/presentation.iml" />
