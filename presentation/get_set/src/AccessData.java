@@ -3,8 +3,8 @@ class Student {
     private String name;
     private int age;
     Student(){
-        this.name = "Rama";
-        this.age = 29;
+        this.name = "Aradhana";
+        this.age = 30;
     }
     Student(String name, int age){
         this.name = name;

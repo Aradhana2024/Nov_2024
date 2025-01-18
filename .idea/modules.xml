@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Nov_2024.iml" filepath="$PROJECT_DIR$/Nov_2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enapulation/aggregation/abstact class/abstact class.iml" filepath="$PROJECT_DIR$/enapulation/aggregation/abstact class/abstact class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enapulation/aggregation/aggregation.iml" filepath="$PROJECT_DIR$/enapulation/aggregation/aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/enapulation/enapulation.iml" filepath="$PROJECT_DIR$/enapulation/enapulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/presentation/get_set/get_set.iml" filepath="$PROJECT_DIR$/presentation/get_set/get_set.iml" />
       <module fileurl="file://$PROJECT_DIR$/poly/poly.iml" filepath="$PROJECT_DIR$/poly/poly.iml" />
