@@ -7,7 +7,6 @@ public class Fruits {
     public static void main(String[] args)
     {
         List<String> names = new LinkedList<>();
-
         names.add("Apple");
         names.add("Banana");
         names.add("Grapes");
