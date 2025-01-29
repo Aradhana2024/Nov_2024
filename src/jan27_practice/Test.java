@@ -4,6 +4,8 @@ import java.util.ArrayList;
 public class Test {
     public static void main(String[] args){
 
+       // int sum;
+
     ArrayList<Integer> List1 = new ArrayList<>();
         List1.add(10);
         List1.add(20);
@@ -21,6 +23,11 @@ public class Test {
         System.out.println("**********");
 
         System.out.println("List2 Numbers are " +List2);
+
+
+        //if we add two Arraylist
+       // sum = List1.get(0) + List2.get(0);
+
 
 
     }
