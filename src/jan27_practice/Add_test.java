@@ -23,7 +23,7 @@ public class Add_test {
 
         System.out.println("List2 Numbers are " + List2);
 
-        ArrayList<Integer> sum = new ArrayList<>();
+       // ArrayList<Integer> sum = new ArrayList<>();
 
 
     }
