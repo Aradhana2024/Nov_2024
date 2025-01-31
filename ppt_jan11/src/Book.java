@@ -1,4 +1,4 @@
-import java.io.*;
+
 public class Book implements Cloneable {
     private String t;   // title
     private String a;   // author

@@ -6,7 +6,7 @@ public class Car {
     public static void main(String[] args) {
 
         // Make a collection
-            ArrayList<String> cars = new ArrayList<String>();
+            ArrayList<String> cars = new ArrayList<>();
             cars.add("Honda");
             cars.add("BMW");
             cars.add("Toyota");
@@ -30,7 +30,8 @@ public class Car {
         System.out.println("Cars of sublist index " +cars.subList(2,3)); //Getting Sublist Index of CAR
         System.out.println("last Index" +cars.get(3)); //Getting index of name 3
         System.out.println("Getting First" +cars.getFirst()); // Getting First Value of String
+        System.out.println("Removing String from Index 2 "+cars.remove(2)); //Remove String
 
-        }
+    }
     }
 
