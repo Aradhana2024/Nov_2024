@@ -25,7 +25,9 @@ public class Person {
         System.out.println("Age of the person"+getAge()); //public void displayInfo(): Prints age.
     }
 
-    public final Class getType(){  // A final method getType(): Returns "Person"
+    public final Class getType()
+    {  // A final method getType(): Returns "Person"
+
         return getClass();
     }
 
