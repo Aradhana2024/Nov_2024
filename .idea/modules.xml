@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Nov_2024.iml" filepath="$PROJECT_DIR$/Nov_2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/enapulation/aggregation/abstact class/abstact class.iml" filepath="$PROJECT_DIR$/enapulation/aggregation/abstact class/abstact class.iml" />
-      <module fileurl="file://$PROJECT_DIR$/enapulation/aggregation/aggregation.iml" filepath="$PROJECT_DIR$/enapulation/aggregation/aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/enapulation/aggregation/abstact class/interface/area_using_interface/anonymous_class/anonymous_class.iml" filepath="$PROJECT_DIR$/enapulation/aggregation/abstact class/interface/area_using_interface/anonymous_class/anonymous_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/enapulation/aggregation/abstact class/interface/area_using_interface/area_using_interface.iml" filepath="$PROJECT_DIR$/enapulation/aggregation/abstact class/interface/area_using_interface/area_using_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/enapulation/aggregation/abstact class/collection/collection.iml" filepath="$PROJECT_DIR$/enapulation/aggregation/abstact class/collection/collection.iml" />
